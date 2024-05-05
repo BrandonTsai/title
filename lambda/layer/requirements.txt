@@ -1,0 +1,7 @@
+pytube
+boto3
+openai
+pydantic
+pydantic-core
+fastapi==0.99.0
+langdetect
